@@ -15,6 +15,9 @@ package net.mcreator.hardzombies;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
+import net.mcreator.hardzombies.init.HardZombiesModItems;
+import net.mcreator.hardzombies.init.HardZombiesModBlocks;
+
 import net.fabricmc.api.ModInitializer;
 
 public class HardZombiesMod implements ModInitializer {
@@ -24,6 +27,9 @@ public class HardZombiesMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing HardZombiesMod");
+
+		HardZombiesModBlocks.load();
+		HardZombiesModItems.load();
 
 	}
 }

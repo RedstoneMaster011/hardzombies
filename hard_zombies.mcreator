@@ -1,9 +1,27 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Blocks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hard_zombies/blockstates/blocks.json",
+          "src/main/java/net/mcreator/hardzombies/block/BlocksBlock.java",
+          "src/main/resources/assets/hard_zombies/models/item/blocks.json",
+          "src/main/resources/assets/hard_zombies/models/block/blocks.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.hard_zombies.blocks": "Blocks"
+    }
   },
   "foldersRoot": {
     "name": "~",
