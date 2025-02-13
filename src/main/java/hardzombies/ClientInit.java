@@ -10,7 +10,7 @@
 *	will be REGENERATED on each build.
 *
 */
-package net.mcreator.hardzombies;
+package hardzombies;
 
 import net.fabricmc.api.Environment;
 import net.fabricmc.api.EnvType;

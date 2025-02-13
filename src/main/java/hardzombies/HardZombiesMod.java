@@ -10,7 +10,7 @@
  *	will be REGENERATED on each build.
  *
  */
-package net.mcreator.hardzombies;
+package hardzombies;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;

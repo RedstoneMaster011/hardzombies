@@ -13,9 +13,8 @@
     "modid": "hard_zombies",
     "modName": "Hard Zombies",
     "version": "1.0.0",
-    "author": "Lucas Case, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "author": "RedstoneMaster01, TylerTheAwesome",
+    "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -23,7 +22,8 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "fabric-1.20.1",
-    "modElementsPackage": "net.mcreator.hardzombies",
+    "credits": "RedstoneMaster01, TylerTheAwesome",
+    "modElementsPackage": "hardzombies",
     "lockBaseModFiles": false
   },
   "mcreatorVersion": 202300452316

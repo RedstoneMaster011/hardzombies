@@ -4,21 +4,21 @@
   "version": "1.0.0",
   "name": "Hard Zombies",
   "authors": [
-    "Lucas Case, MCreator"
+    "RedstoneMaster01, TylerTheAwesome"
   ],
   "contact": {
     "homepage": "https://mcreator.net",
     "sources": ""
   },
-  "license": "Academic Free License v3.0",
+  "license": "All Rights Reserved",
   "accessWidener": "hard_zombies.accesswidener",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.mcreator.hardzombies.HardZombiesMod"
+      "hardzombies.HardZombiesMod"
     ],
     "client": [
-      "net.mcreator.hardzombies.ClientInit"
+      "hardzombies.ClientInit"
     ]
   },
   "depends": {
