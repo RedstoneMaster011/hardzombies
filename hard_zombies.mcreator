@@ -1,5 +1,18 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "N",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "n",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hardzombies/N.java"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
